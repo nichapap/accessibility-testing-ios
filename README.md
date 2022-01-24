@@ -2,8 +2,6 @@
 
 ## Prerequisite
 
-- ~~BNC Nexus access~~
-- ~~BNC Github access~~
 - Xcode
 
 ## Setup Xcode
@@ -32,11 +30,3 @@
    - ▶️: Auto navigating with VoiceOver
    - ＞: navigate the target forth
 6. `Hierarchy` is the list of elements on the selected target.
-
-## Setup environment in Terminal
-
-1. Install `Homebrew` with this command:
-   <br/>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` <br /> _Please check homebrew export path at the end of the installation_
-2. Install node nvm and yarn via hombrew: `brew install node nvm yarn`
-<br /> _Please check usage of each package at the end of the installation_
-<!-- 3. Installing **lts/dubnium** using nvm: `nvm install lts/dubnium` -->
