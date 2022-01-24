@@ -24,9 +24,13 @@
 2. Click the button after `Inspected Emement`
 3. Move your cursor to iPhone screen then click.
 4. Green hover indicated the position of target. Or look for the symbol: ⌖
-5. `Navigation` can be use to navigate the target back or forth and toggle on/off the speech.
+5. `Basics` is the details of the target element.
+6. `Navigation` can be use to navigate the target back or forth and toggle on/off the speech.
    - 💬: toggle on/off the VoiceOver
    - ＜: navigate the target back
    - ▶️: Auto navigating with VoiceOver
    - ＞: navigate the target forth
-6. `Hierarchy` is the list of elements on the selected target.
+7. `Hierarchy` is the list of elements on the selected target.
+8. `Actions` is mimic the action as using screen touch.
+   - press: press on the element
+   - show menu: mimic 3D touch on the element
